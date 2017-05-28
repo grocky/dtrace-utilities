@@ -20,7 +20,7 @@
  *
  * Standard Disclaimer: This is freeware, use at your own risk.
  *
- * 14-Jan-2005  Brendan Gregg   Created this.
+ * 14-Jan-2005  Brendan Gregg   Created this. http://www.brendangregg.com/DTrace/sshkeysnoop.d
  */
 
 #pragma D option quiet
